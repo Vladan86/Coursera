@@ -1,0 +1,84 @@
+body {
+	font-size: 16px;
+	background-image: url("chillipeppers.jpg"); 
+	margin: 0;
+}
+
+#header-nav {
+	background-color: #195E21;
+	border-radius: 0px;
+	border: 0px;
+	padding-top: 25px;
+}
+
+.navbar-brand {
+	padding-top: 5px;
+
+}
+
+.navbar-brand h1 {
+	color: #fff;
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: -10px;
+	position: absolute;
+    left: 30px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  	text-decoration: none;
+}
+
+.navbar-toggle {
+	background-color: #F5E6BA;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  	border: 1px solid #823D3D;
+}
+.navbar-header button.navbar-toggle {
+  	clear: both;
+  	margin-top: -55px;
+  	margin-bottom: 20px;
+}
+
+#nav-list {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #013807;
+}
+
+#nav-list a {
+	color: #F5E6BA;
+	font-size: 1.5em;
+	padding: 15px;
+}
+
+#nav-list a:hover {
+	background: #612F2F;
+}
+
+.container-fluid {
+	background-color: #F5E6BA;
+	border-color: #195E21;
+	border-radius: 15px;
+	margin-bottom: 30px;
+	padding: 15px;
+	overflow: hidden;
+}
+
+.row {
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+}
+
+h2 {
+	color: #fff;
+	font-size: 2em;
+}
+
+h3 {
+	color: #195E21;
+}
